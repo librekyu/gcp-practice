@@ -1,0 +1,51 @@
+const DUMMY = {
+  IDENTIFICATION_IMG: '/static/images/dummy_identification.png',
+  ID_PICTURE_IMG: '/static/images/dummy_idPicture.png',
+  FILE_NAME: 'wooribank_Loan Document Format.pdf',
+  NAME: 'Blue Client',
+  ID: 'dummy01',
+  SO_NO: '240 859 273',
+  BIRTH: '01/02/2001',
+  EXPIRATION: '06/06/2019',
+  NATIONALITY: 'viet',
+  PHONE_NUMBER: '0335557777',
+  ADDRESS: 'Los Angeles, CA 90027',
+  DETAIL_ADDRESS: '100 Central Ave. #101',
+  // ADDRESS: 'số nhà 23 ngách 17 ngõ 100',
+  // DETAIL_ADDRESS: 'đường hàng quốc việt',
+
+  ACCOUNT_NUMBER: '4214-221-8734',
+  INPUT_MONEY: '650000',
+  CHARGE: '1000',
+
+  AGENT: 'Nguyen Ngu Ngoc',
+  AGENT2: 'Philip Kako',
+
+  AGENT_OTP: 123456,
+  CLIENT_PIN: 123456,
+
+  SEND_INPUT_MONEY: '5000',
+  SEND_OUTPUT_MONEY: '35000',
+
+  IN_ACCOUNT_BANK: 'Vietcom',
+  IN_ACCOUNT_BANK_NUMBER: '102345-26879-45',
+  INPUT_CASH: 500000,
+
+  CARD_NUMBER: '1234-4321-0123-3210',
+  STATEMENT_BALANCE: 206000,
+  CURRENT_BALANCE: 350000,
+  PAY_METHOD: 'account',
+
+  LOAN_PRINCIPAL: 20000000,
+  LOAN_INTEREST: 15000000,
+  LOAN_BALANCE: 15000000,
+  PRINCIPAL_PAY_MONEY: 850000,
+
+  MATURITY: 2,
+
+  LOAN: 8500000,
+
+  UTILITY_BILL: 850000
+};
+
+export default DUMMY;
